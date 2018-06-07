@@ -1,7 +1,8 @@
 # AbxStarterPrjLandscape
 
-For Discord Friend in Sykoo channel
-Starter Project with nice lighting setup for landscape.
+For Discord Friends in Sykoo channel
+
+(As promised) A starter project with nice lighting setup for landscape.
 Just a start project to play with settings.
 
 *Advice* download the "AVIONX Skybox Series Free" assets.
